@@ -1,7 +1,8 @@
 # gym_app
 
-A new Flutter project.
+gym_app is a Flutter application designed to help users track their workouts, set fitness goals, and monitor progress.
 
+This app leverages Flutter for a seamless cross-platform experience on both iOS and Android.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
