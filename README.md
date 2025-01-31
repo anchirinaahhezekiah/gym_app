@@ -12,7 +12,7 @@ Welcome to **Gym App**, a Flutter-powered fitness application designed to help u
 
 - **Flutter** – Cross-platform app development  
 - **Dart** – Programming language  
-- **Provider/Bloc** – State management (if applicable)  
+- **Provider/Bloc** – State management   
 
 
 ## 📦 Installation  
